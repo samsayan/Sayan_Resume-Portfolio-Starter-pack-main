@@ -20,7 +20,7 @@ const Testimonials = ({ data }) => {
         <div className="row">
           <div className="two columns header-col">
             <h1>
-              <span>BrainStorm</span>
+              <span>Client Testimonials</span>
             </h1>
           </div>
 
