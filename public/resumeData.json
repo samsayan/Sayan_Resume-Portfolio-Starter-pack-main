@@ -1,0 +1,120 @@
+{
+  "main": {
+    "name": "Sayan Samaddar",
+    "occupation": "Developer",
+    "description": "Software is Not as Soft as You",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Sayan. I am currently working in an MNC in Kolkata. I am just a beginner in this IT industry. But acquiring knowledge and technologies to become a successful Full Stack Developer. Intersted in coding challenges. Also a love the section of IoT. Wish to work more on IoT. I like to discuss about innovative ideas. Always welcome to all the people from this technical globe. I would like to learn and spread it all over the community. ",
+    "contactmessage": "Get in touch with me",
+    "email": "samsayan589@gmail.com",
+    "phone": "+91 7890111206",
+    "address": {
+      "street": "168/1, Netaji Colony, Baranagar",
+      "city": "Kolkata",
+      "state": "West Bengal, India",
+      "zip": "700090"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sayan.samaddar.503/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sayan-samaddar-ba9b011b6/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sam_deadshot/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/samsayan",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Academy of Technology, Hooghly, India",
+        "degree": "B.Tech, Information Technology",
+        "graduated": "July 2020",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "TCS",
+        "title": "Developer",
+        "years": "September 2020 - Present",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "C",
+        "level": "75%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "PHP",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "Web Development",
+        "level": "59%"
+      },
+      {
+        "name": "IoT",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Digital Farming (IoT)",
+        "category": "",
+        "image": "Digital Farming.png",
+        "url": ""
+      },
+      {
+        "title": "Autonomus Map Following Bot (IoT)",
+        "category": "",
+        "image": "Autonomus Map Following Bot.png",
+        "url": "https://will-less-strength.000webhostapp.com/index.php"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "All of us do not have equal talent. But, all of us have an equal opportunity to develop our talents.",
+        "user": "APJ Abdul Kalam"
+      },
+      {
+        "text": "It is important to follow your dreams and heart. Do something that excites you.",
+        "user": "Sundar Pichai"
+      }
+    ]
+  }
+}
